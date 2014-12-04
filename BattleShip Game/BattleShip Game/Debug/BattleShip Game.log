@@ -1,0 +1,106 @@
+﻿Build started 03-Dec-14 7:41:23 PM.
+     1>Project "C:\Rami\Google Drive\AUC\CSCE 1101\Projects\Battleship\BattleShip Game\BattleShip Game\BattleShip Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\SFML-2.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Cell.cpp Grid.cpp Highscores.cpp main.cpp MainWindow.cpp Menu.cpp Options.cpp PlayGame.cpp "SFML Testing.cpp" Ship.cpp Time.cpp
+         Time.cpp
+         Ship.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(14): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(17): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(20): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(23): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(26): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\ship.cpp(32): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         SFML Testing.cpp
+         PlayGame.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\playgame.cpp(2): fatal error C1083: Cannot open include file: 'ResourcePath.hpp': No such file or directory
+         Options.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\options.cpp(2): fatal error C1083: Cannot open include file: 'Controls.h': No such file or directory
+         Menu.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(11): warning C4129: 'F' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\menu.cpp(45): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         MainWindow.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(21): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(34): warning C4129: 'M' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(40): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(43): warning C4129: 'M' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(49): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(56): warning C4129: 'I' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'G' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'C' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'B' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(116): warning C4129: 'M' : unrecognized character escape sequence
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\mainwindow.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         main.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\main.cpp(13): fatal error C1083: Cannot open include file: 'ResourcePath.hpp': No such file or directory
+         Highscores.cpp
+         Grid.cpp
+         Cell.cpp
+     1>c:\rami\google drive\auc\csce 1101\projects\battleship\battleship game\battleship game\cell.cpp(4): fatal error C1083: Cannot open include file: 'ResourcePath.hpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Rami\Google Drive\AUC\CSCE 1101\Projects\Battleship\BattleShip Game\BattleShip Game\BattleShip Game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:11.65
